@@ -1,0 +1,252 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Heijn",
+        "address": "3342 AC Hendrik Ido Ambacht",
+        "category": "supermarket",
+        "icon": "https://path-to-your-icon/shop-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.630271,
+          51.845279
+        ],
+        "type": "Point"
+      },
+      "id": "05e0a881393b05ab53b342fe14170502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basisschool De Klimboom",
+        "address": "Druivengaarde 5, 3344 PK Hendrik Ido Ambacht",
+        "category": "school",
+        "icon": "https://path-to-your-icon/school-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.643661,
+          51.834701
+        ],
+        "type": "Point"
+      },
+      "id": "17eef5c4dbbc96c05bd9585784e54b1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kindcentrum De Wijngaard",
+        "address": "Druivengaarde 9, 3344 PK Hendrik Ido Ambacht",
+        "category": "school",
+        "icon": "https://path-to-your-icon/school-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.643513,
+          51.834008
+        ],
+        "type": "Point"
+      },
+      "id": "18791b4acbe601d8e58178d991cd2f1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lentiz LIFE College",
+        "address": "Parallelweg 410 3112 NA Schiedam",
+        "category": "college",
+        "icon": "https://path-to-your-icon/school-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.413131,
+          51.921807
+        ],
+        "type": "Point"
+      },
+      "id": "25d69fe6aed3a7c77fdb79ad68c25fc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yes! Kinderopvang",
+        "address": "Druivengaarde 9, 3344 PK Hendrik Ido Ambacht",
+        "category": "kinderopvang",
+        "icon": "https://path-to-your-icon/school-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.643661,
+          51.834701
+        ],
+        "type": "Point"
+      },
+      "id": "3510f2e3de156cb40eb8c989d57d0f6f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winkelcentrum Walburg",
+        "address": "Hof van Holland 33, 3332 EH Zwijndrecht",
+        "category": "shop",
+        "icon": "https://path-to-your-icon/shop-icon.png"
+      },
+      "geometry": {
+        "coordinates": [
+          4.651078,
+          51.822724
+        ],
+        "type": "Point"
+      },
+      "id": "47f241549cdd56a096796d3719e28a5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dirk",
+        "icon": "supermarket",
+        "category": "supermarket",
+        "address": "Sophiapromenade 78, 3344 PM Hendrik Ido Ambacht"
+      },
+      "geometry": {
+        "coordinates": [
+          4.645708,
+          51.834855
+        ],
+        "type": "Point"
+      },
+      "id": "4ca774851d482ea50ed3db6d6d7e9949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winkelcentrum De Schoof",
+        "address": "Schoof 134, 3341 EB Hendrik-Ido-Ambacht",
+        "category": "shop",
+        "icon": "https://path-to-your-icon/shop-icon.png"
+      },
+      "geometry": {
+        "coordinates": [
+          4.643906,
+          51.848905
+        ],
+        "type": "Point"
+      },
+      "id": "505f76819e7df6330ba536b826259986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louwersplein",
+        "address": "3343 RH Hendrik Ido Ambacht",
+        "category": "shop",
+        "icon": "https://path-to-your-icon/shop-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.636134,
+          51.838444
+        ],
+        "type": "Point"
+      },
+      "id": "68091d8fd3b740ea95a6352664ac00a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walburg College, ",
+        "address": "Norderstedtplein 6",
+        "category": "college",
+        "icon": "https://path-to-your-icon/school-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.654648,
+          51.822154
+        ],
+        "type": "Point"
+      },
+      "id": "732e5dd4d68a44f3eda39094d5d876f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winkelcentrum Hoog Ambacht",
+        "address": "Perengaarde 18, Hendrik-Ido-Ambacht",
+        "category": "shop",
+        "icon": "https://path-to-your-icon/shop-icon.png"
+      },
+      "geometry": {
+        "coordinates": [
+          4.646275,
+          51.835463
+        ],
+        "type": "Point"
+      },
+      "id": "87b8d047d5a179bb81f2e0f7115e7bd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderopvang Kivido",
+        "address": "Reeweg 81, 3343 LD Hendrik-Ido-Ambacht",
+        "category": "kinderopvang",
+        "icon": "https://path-to-your-icon/school-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.630594,
+          51.845347
+        ],
+        "type": "Point"
+      },
+      "id": "b26febaefda3befdf502c94ed9cf25ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Heijn",
+        "address": "Sophiapromenade 14, 3344 PM Hendrik Ido Ambacht",
+        "category": "supermarket",
+        "icon": "https://path-to-your-icon/supermarket-icon.png"
+      },
+      "geometry": {
+        "coordinates": [
+          4.646153,
+          51.835211
+        ],
+        "type": "Point"
+      },
+      "id": "c4121adaf93a3a77976c3ccd26af07e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christelijk kindcentrum De Tweestroom",
+        "address": "Jan Wissenslaan 5, 3341 Hendrik-Ido-Ambacht",
+        "category": "school",
+        "icon": "https://path-to-your-icon/school-icon.png",
+        "accuracy": "rooftop"
+      },
+      "geometry": {
+        "coordinates": [
+          4.647103,
+          51.845608
+        ],
+        "type": "Point"
+      },
+      "id": "da6214b21b7afc5f26552ed86d424784"
+    }
+  ],
+  "type": "FeatureCollection"
+}
