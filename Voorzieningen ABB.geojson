@@ -25,6 +25,7 @@
         "address": "Druivengaarde 5, 3344 PK Hendrik Ido Ambacht",
         "category": "school",
         "icon": "https://path-to-your-icon/school-icon.png",
+       "description'": "afstand: ongeveer 1,8 km",
         "accuracy": "rooftop"
       },
       "geometry": {
